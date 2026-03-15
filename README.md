@@ -24,7 +24,7 @@ My work focuses on data analytics, machine learning, time series forecasting, an
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Machine Learning
-Machine Learning • Predictive Modeling • Time Series Forecasting
+Machine Learning • Predictive Modeling 
 
 ### Business & Analytics
 Business Analysis • Data Visualization • Project Management
