@@ -19,9 +19,10 @@ SQL
 Power BI  
 Tableau  
 Machine Learning  
-Time Series Forecasting  
+Business Analysis 
 Data Visualization  
 Excel  
+Project Management
 
 ---
 
