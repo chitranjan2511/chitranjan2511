@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Chitranjan Kumar 👋
 
-<!--
-**chitranjan2511/chitranjan2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PGDM (IT & Analytics) | IMT Hyderabad  
+📊 Data Analytics | Machine Learning | Business Intelligence  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a PGDM (IT & Analytics) student at IMT Hyderabad passionate about solving business problems using data.  
+My work focuses on data analytics, machine learning, time series forecasting, and business intelligence dashboards.
+
+---
+
+## 🔧 Skills & Tools
+
+Python  
+SQL  
+Power BI  
+Tableau  
+Machine Learning  
+Time Series Forecasting  
+Data Visualization  
+Excel  
+
+---
+
+## 📊 Featured Projects
+
+🔹 **Telco Customer Churn Analysis**  
+Machine learning model predicting telecom customer churn.
+
+🔹 **AI Purchase Order Classification**  
+AI-based classification of CapEx vs OpEx purchase orders.
+
+🔹 **Reliance Stock Forecasting (ARIMA)**  
+Time series model for stock price forecasting.
+
+🔹 **Sales Analytics Dashboards**  
+Interactive business dashboards using Power BI and Tableau.
+
+---
+
+## 📂 Portfolio Repository
+
+Explore all my projects here:
+
+➡️ https://github.com/chitranjan2511/Project-Portfolio
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/chitranjan-kumar
+
+GitHub  
+https://github.com/chitranjan2511
