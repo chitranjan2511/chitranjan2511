@@ -1,5 +1,4 @@
 # Hi, I'm Chitranjan Kumar 👋
-![Profile Views](https://komarev.com/ghpvc/?username=chitranjan2511&color=blue)
 
 🎓 PGDM (IT & Analytics) | IMT Hyderabad  
 📊 Data Analytics | Machine Learning | Business Intelligence  
