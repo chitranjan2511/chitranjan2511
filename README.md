@@ -1,15 +1,14 @@
 # Hi, I'm Chitranjan Kumar 👋
 
-🎓 PGDM (IT & Analytics) | IMT Hyderabad  
+🎓 PGDM (IT & Analytics) | 
 📊 Data Analytics | Machine Learning | Business Intelligence  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a PGDM (IT & Analytics) student at IMT Hyderabad passionate about solving business problems using data.  
-My work focuses on data analytics, machine learning, time series forecasting, and business intelligence dashboards.
-
+I am Chitranjan Kumar, a data-driven problem solver focused on leveraging analytics and machine learning to drive business insights.  
+My work includes data analytics, predictive modeling, time series forecasting, and business intelligence dashboards.
 ---
 
 ## Skills & Tools
@@ -33,14 +32,14 @@ Business Analysis • Data Visualization • Project Management
 
 ## 📊 Featured Projects
 
+🔹 **EasyQ – Digital Queue Management System**  
+A healthcare-tech product to reduce waiting time in clinics using real-time queue tracking and appointment scheduling.
+
+🔹 **Technological Disclosure Analysis in India**  
+Analyzed innovation trends using disclosure datasets to identify sector-wise patterns and insights.  
+
 🔹 **Telco Customer Churn Analysis**  
 Machine learning model predicting telecom customer churn.
-
-🔹 **AI Purchase Order Classification**  
-AI-based classification of CapEx vs OpEx purchase orders.
-
-🔹 **Reliance Stock Forecasting (ARIMA)**  
-Time series model for stock price forecasting.
 
 🔹 **Sales Analytics Dashboards**  
 Interactive business dashboards using Power BI and Tableau.
