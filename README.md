@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me
 
-I am Chitranjan Kumar, a data-driven problem solver focused on leveraging analytics and machine learning to drive business insights.  
+A data-driven problem solver focused on leveraging analytics and machine learning to drive business insights.  
 My work includes data analytics, predictive modeling, time series forecasting, and business intelligence dashboards.
----
+
 
 ## Skills & Tools
 
